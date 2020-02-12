@@ -70,6 +70,7 @@
 		<tr><td>Saints and Sinners Bowling </td><td>Windows </td></tr>
 		<tr><td><a href="http://scorched3d.co.uk/">Scorched 3D</a> </td><td>FreeBSD, Linux, Mac OS X, Solaris, Windows </td></tr>
 		<tr><td>Shellshock Nam '67</td><td>Windows </td></tr>
+		<tr><td><a href="http://hazeron.com/">Shores of Hazeron</a> </td><td>Linux, Mac, Windows </td></tr>
 		<tr><td><a href="http://www.reallyslick.com/">Skyrocket Screensaver</a> </td><td>Linux, Windows </td></tr>
 		<tr><td>Slune</td><td>FreeBSD, Linux </td></tr>
 		<tr><td><a href="http://www.ravensoftware.com/games/soldier-of-fortune/view-game/">Soldier of Fortune</a> </td><td>Linux </td></tr>
